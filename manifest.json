@@ -1,0 +1,13 @@
+{
+  "name": "lecture-demo",
+  "version": "0.1.0",
+  "kind": "app",
+  "preview": null,
+  "datastart": {
+    "min": "0.19"
+  },
+  "files": {
+    "app/lecture.json": "sha256:2fed2295504d52887e9ddf7be840bfb998ca5e04217237693b770339add14d0f"
+  },
+  "requires": []
+}

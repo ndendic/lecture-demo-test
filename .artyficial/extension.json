@@ -1,0 +1,19 @@
+{
+  "name": "lecture-demo",
+  "displayName": "Lecture demo",
+  "kind": "app",
+  "subtype": "lecture",
+  "description": "A two-step interactive lecture on waves, the example of the lecture subtype.",
+  "publisher": {"name": "Example Lab", "url": "https://example.invalid"},
+  "homepage": "https://example.invalid/lecture-demo",
+  "repository": "https://github.com/example-lab/lecture-demo",
+  "license": "MIT",
+  "tags": ["lecture", "education"],
+  "readme": "README.md",
+  "platform": {"min": "0.19", "max_exclusive": null},
+  "requires": [],
+  "manifest": "manifest.json",
+  "demo_url": "https://demo.example.org/lecture-demo",
+  "collections": ["education", "wave-1"],
+  "maturity": "prototype"
+}

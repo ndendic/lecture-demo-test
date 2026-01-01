@@ -1,0 +1,7 @@
+{
+  "title": "Waves",
+  "steps": [
+    {"id": "intro", "stage": "prose", "text": "A wave is a pattern that moves."},
+    {"id": "slider", "stage": "figure", "control": "frequency", "min": 1, "max": 20}
+  ]
+}
